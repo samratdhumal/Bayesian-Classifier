@@ -1,6 +1,9 @@
-# Bayesian-Classifier
+# Bayesian Classifier                                                                                                                                                              
+## Technology Used: Bayesian Statistics, MATLAB
+##    Implemented Bayesian Classifier for multivariate-normally distributed dataset based on subjective and objective user responses and conversion to bivariate data with a 98% accuracy.
 
-### The goal of this project is to construct a classifier such that for any given values of 𝐹1 and 𝐹2, it can predict the performed task (𝐶1, 𝐶2, C3, C4, 𝐶5). We used the powerful Bayes Theorem for classification.
+
+The goal of this project is to construct a classifier such that for any given values of 𝐹1 and 𝐹2, it can predict the performed task (𝐶1, 𝐶2, C3, C4, 𝐶5). We used the powerful Bayes Theorem for classification.
 
 In an experiment involving 1000 participants, we recorded two different measurement (F1 and F2) while participants performed 5 different tasks (C1, C2, ..., C5). The two measurements are independent and for each class they  can be considered to have a normal distribution as follow:
 
